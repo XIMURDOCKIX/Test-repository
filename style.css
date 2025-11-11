@@ -2,10 +2,10 @@ body {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   text-align: center;
-  background-color: aquamarine;
-  color: darkblue;
+  background-color: rgb(12, 226, 69);
+  color: rgb(227, 33, 12);
 }
 
 h1 {
-  color: brown;
+  color: rgb(244, 244, 244);
 }
