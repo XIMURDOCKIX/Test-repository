@@ -1,4 +1,11 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-color: aquamarine;
+  color: darkblue;
+}
+
 h1 {
-  color: blueviolet;
-  font-size: x-large;
+  color: brown;
 }
